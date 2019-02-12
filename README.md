@@ -5,11 +5,11 @@ permalink: /index.html
 
 # Rocket.Chat Docs
 
-This is the official repository for Rocket.Chat Documentation.
+Este é o repositório oficial da documentação do Rocket.Chat.
 
-## How to run Rocket.Chat Docs locally:
+## Como executar o Rocket.Chat Docs localmente:
 
-This is a quick guide on how to run the docs site locally, for a more in depth guide please look [here]( contributing/documentation)
+Este é uma guia rápida sobre como executar o site localmente, para uma guia mais aprofundado por favor olhar [aqui]( contributing/documentation)
 
 - install ruby (version 2.5 or higher recommended, if using any version prior to 2.5 you will need to install bundler with `gem install bundler`).
 - This step is for only macOS users:
